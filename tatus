@@ -1,0 +1,29 @@
+[33mcommit 8bcf4065143ad0f366e16a06598dd3ad49730266[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Augusto Zegarra <augusto.florszegarra@gmail.com>
+Date:   Tue Jan 10 00:59:20 2023 -0500
+
+    modificando titulo
+
+[33mcommit 8fab95053c56e5f0bec53380ba98b428aa55b11a[m
+Author: Augusto Zegarra <augusto.florszegarra@gmail.com>
+Date:   Sun Jan 8 03:21:01 2023 -0500
+
+    agregando git ignore
+
+[33mcommit 000bef4f9c4ff97e75ef13a2eb68fa6b24414295[m
+Author: Augusto Zegarra <augusto.florszegarra@gmail.com>
+Date:   Sat Jan 7 16:47:45 2023 -0500
+
+    arreglado letra comida en el curso de integración continua
+
+[33mcommit b8a15cee77624d8930704021640442290d87b2ad[m
+Author: augusto <augusto.floreszegarra@gmail.com>
+Date:   Sat Jan 7 16:38:29 2023 -0500
+
+    arreglado acento en el curso de integración continua
+
+[33mcommit a6be6979adf89848e42820a6c499e958b09d76cf[m
+Author: augusto <augusto.floreszegarra@gmail.com>
+Date:   Sat Jan 7 16:30:44 2023 -0500
+
+    creando archivo index.html como prueba con lista de cursos de alura
